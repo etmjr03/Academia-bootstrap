@@ -1,4 +1,4 @@
-# Academia-bootstrap
+# Ficha de academia online
 Ficha de academia utilizando bootstrap
 
 <p align="left">Tecnologias utilizadas no projeto</p>
