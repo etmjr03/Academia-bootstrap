@@ -1,5 +1,11 @@
 # Ficha de academia online
-Ficha de academia utilizando bootstrap
+<p>Ficha de academia utilizando bootstrap<p>
+
+<div align="left">
+  <img height="200" src="https://media1.tenor.com/images/fe4fc717e6f2292ba9a01873d1d9a41b/tenor.gif?itemid=10914385"  />
+</div>
+
+<p align="left">Ficha online com informações referentes ao treino, desde exercícios até recursos que podem colaborar com o treino.</p>
 
 <p align="left">Tecnologias utilizadas no projeto</p>
 
