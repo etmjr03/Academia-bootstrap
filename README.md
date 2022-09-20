@@ -19,3 +19,12 @@
 </div>
 
 ###
+
+<p>Veja como ficou o resultado final do projeto, você também pode acessar o site pelo link: https://etmjr03.github.io/Academia-bootstrap/</p>
+
+<div align="left">
+  <img height="450" src="assets/img/site1.png"/>
+  <img height="450" src="assets/img/site2.png"/>
+</div>
+
+###
